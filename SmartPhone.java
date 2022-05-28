@@ -7,6 +7,10 @@ public class SmartPhone extends AndroidPhone{
 	{
 		System.out.println("connect to whatsapp");
 	}
+	public void takeVideo()
+	  {
+		  System.out.println("take a video and send");
+	  }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
